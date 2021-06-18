@@ -1,6 +1,6 @@
 # docker pull andmyhacks/httpscreenshot
 
-FROM ubuntu:latest
+FROM ubuntu:20.10
 
 MAINTAINER Keith Hoodlet <keith@attackdriven.io>
 
