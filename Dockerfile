@@ -1,6 +1,6 @@
 # docker pull andmyhacks/httpscreenshot
 
-FROM ubuntu:latest
+FROM ubuntu:groovy-20210614
 
 MAINTAINER Keith Hoodlet <keith@attackdriven.io>
 
