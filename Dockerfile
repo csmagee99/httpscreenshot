@@ -1,6 +1,6 @@
 # docker pull andmyhacks/httpscreenshot
 
-FROM ubuntu:latest
+FROM ubuntu:kinetic-20220830
 
 MAINTAINER Keith Hoodlet <keith@attackdriven.io>
 
